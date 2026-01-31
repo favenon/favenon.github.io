@@ -20,7 +20,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <span class="d-block d-lg-none">Clarence Taylor</span>
+                <span class="d-block d-lg-none">Chinomso Ugorji</span>
                 <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="..." /></span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -41,12 +41,12 @@
             <section class="resume-section" id="about">
                 <div class="resume-section-content">
                     <h1 class="mb-0">
-                        fave
+                        chinomso
                         <span class="text-primary">cybersecurity</span>
                     </h1> 
                     <div class="subheading mb-5">
                         Cybersecurity Analyst | ELK Stack Specialist | Penetration Tester .
-                        <a href="mailto:fave@email.com">fave@email.com</a>
+                        <a href="mailto:chinomsougorji2@gmail.com">chinomsougorji2@gmail.com</a>
                     </div>
                     <p class="lead mb-5">Cybersecurity analyst specializing in penetration testing, threat hunting, and security monitoring. Experienced with ELK stack deployment, vulnerability assessment, and network security analysis.</p>
                     <div class="social-icons">
