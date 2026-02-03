@@ -46,7 +46,7 @@
                     </h1> 
                     <div class="subheading mb-5">
                         Cybersecurity Analyst | ELK Stack Specialist | Penetration Tester .
-                        <a href="mailto:chinomsougorji2@gmail.com">chinomsougorji2@gmail.com</a>
+                        <a href="mailto:favourruth20@gmail.com">favourruth20@gmail.com</a>
                     </div>
                     <p class="lead mb-5">Cybersecurity analyst specializing in penetration testing, threat hunting, and security monitoring. Experienced with ELK stack deployment, vulnerability assessment, and network security analysis.</p>
                     <div class="social-icons">
