@@ -492,7 +492,7 @@
                         <i class="fab fa-github"></i>
                         <span style="font-size: 0.9rem; margin-left: 5px;">@favenon</span>
                     </a>
-                    <a href="https://linkedin.com/in/favoue-ezem-b66159232" target="_blank" title="LinkedIn">
+                    <a href="https://linkedin.com/in/favour-ezem-b66159232" target="_blank" title="LinkedIn">
                         <i class="fab fa-linkedin"></i>
                         <span style="font-size: 0.9rem; margin-left: 5px;">Favour Ezem</span>
                     </a>
