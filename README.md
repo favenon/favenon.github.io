@@ -433,29 +433,47 @@
             </div>
         </div>
     </section>
-
     <!-- Education Section -->
     <section id="education" style="background-color: #111;">
         <div class="container">
             <div class="section-title">
                 <i class="fas fa-graduation-cap fa-2x"></i>
-                <h2>Education & Training</h2>
+                <h2>Certifications & Training</h2>
             </div>
-            <div style="max-width: 800px; margin: 0 auto;">
-                <div style="background-color: #222; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
-                    <h3 style="color: #00ff88; margin-bottom: 10px;">BSc in Cybersecurity</h3>
-                    <p style="color: #bbb;">University Name | 2020-2024</p>
-                    <p>Specialized in network security, cryptography, and ethical hacking principles.</p>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3><i class="fab fa-cisco"></i> Cisco Certified</h3>
+                    <ul class="skill-list">
+                        <li>CCNA Certified</li>
+                        <li>Cybersecurity Essentials</li>
+                        <li>Network Fundamentals</li>
+                        <li>Security Principles</li>
+                    </ul>
                 </div>
                 
-                <div style="background-color: #222; padding: 30px; border-radius: 10px;">
-                    <h3 style="color: #00ff88; margin-bottom: 10px;">Cybersecurity Bootcamp</h3>
-                    <p style="color: #bbb;">Training Institution | 2023</p>
-                    <p>Intensive training in penetration testing, threat analysis, and security operations.</p>
+                <div class="skill-category">
+                    <h3><i class="fas fa-laptop-code"></i> BIncom Academy</h3>
+                    <ul class="skill-list">
+                        <li>Penetration Testing Professional</li>
+                        <li>Cybersecurity Specialist</li>
+                        <li>Network Defense</li>
+                        <li>SOC Operations</li>
+                    </ul>
+                </div>
+                
+                <div class="skill-category">
+                    <h3><i class="fas fa-certificate"></i> Additional Credentials</h3>
+                    <ul class="skill-list">
+                        <li>Google Cybersecurity</li>
+                        <li>CompTIA Security+ (In Progress)</li>
+                        <li>Ethical Hacking</li>
+                        <li>Cloud Security</li>
+                    </ul>
                 </div>
             </div>
         </div>
     </section>
+ 
 
     <!-- Contact Section -->
     <section id="contact">
