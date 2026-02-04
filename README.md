@@ -487,14 +487,16 @@
                 <p style="margin: 30px 0;">
                     <a href="mailto:favourunth20@gmail.com" class="email-link">favourunth20@gmail.com</a>
                 </p>
-                
-                <div class="social-links">
-                    <a href="https://github.com/favonon" target="_blank"><i class="fab fa-github"></i></a>
-                    <a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    <a href="https://twitter.com/yourprofile" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <div class="social-links">
+                    <a href="https://github.com/favenon" target="_blank" title="GitHub">
+                        <i class="fab fa-github"></i>
+                        <span style="font-size: 0.9rem; margin-left: 5px;">@favenon</span>
+                    </a>
+                    <a href="https://linkedin.com/in/favoue-ezem-b66159232" target="_blank" title="LinkedIn">
+                        <i class="fab fa-linkedin"></i>
+                        <span style="font-size: 0.9rem; margin-left: 5px;">Favour Ezem</span>
+                    </a>
                 </div>
-            </div>
-        </div>
     </section>
 
     <!-- Footer -->
