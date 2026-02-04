@@ -1,3 +1,4 @@
+[index.html](https://github.com/user-attachments/files/25059602/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -433,7 +434,8 @@
             </div>
         </div>
     </section>
-    <!-- Education Section -->
+
+       <!-- Education Section -->
     <section id="education" style="background-color: #111;">
         <div class="container">
             <div class="section-title">
@@ -452,7 +454,7 @@
                 </div>
                 
                 <div class="skill-category">
-                    <h3><i class="fas fa-laptop-code"></i> BIncom Academy</h3>
+                    <h3><i class="fas fa-laptop-code"></i> BIncome Academy</h3>
                     <ul class="skill-list">
                         <li>Penetration Testing Professional</li>
                         <li>Cybersecurity Specialist</li>
@@ -473,7 +475,8 @@
             </div>
         </div>
     </section>
- 
+        </div>
+    </section>
 
     <!-- Contact Section -->
     <section id="contact">
@@ -487,8 +490,9 @@
                 <p style="margin: 30px 0;">
                     <a href="mailto:favourunth20@gmail.com" class="email-link">favourunth20@gmail.com</a>
                 </p>
-                                <div class="social-links">
-                    <a href="https://github.com/favenon" target="_blank" title="GitHub">
+                
+                               <div class="social-links">
+                    <a href="https://github.com/favour" target="_blank" title="GitHub">
                         <i class="fab fa-github"></i>
                         <span style="font-size: 0.9rem; margin-left: 5px;">@favenon</span>
                     </a>
@@ -497,6 +501,8 @@
                         <span style="font-size: 0.9rem; margin-left: 5px;">Favour Ezem</span>
                     </a>
                 </div>
+            </div>
+        </div>
     </section>
 
     <!-- Footer -->
